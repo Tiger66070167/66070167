@@ -1,6 +1,18 @@
 #website-title {
-    font-size: 128px;
-    color: red;
-    text-align: center;
+    font-size: 90px;
+    color: whitesmoke;
+    text-align: left;
     font-weight: 200;
+}
+
+.meduim{
+    font-size: 50px;
+    color: rgb(20, 43, 35);
+}
+
+#border{
+    border: 20px solid brown;
+    margin: auto;
+    padding: 10px;
+    color: aliceblue;
 }
